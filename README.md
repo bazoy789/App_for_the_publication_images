@@ -1,11 +1,11 @@
 # App_for_the_publication_images
 
-## Description
+## Description:
 - Приложение для публикации картинок 
 
-## Technologies
+## Technologies:
 - Flask
 
-### 
+### Run:
 - run.py для запуска программ
 - test для тестирования
